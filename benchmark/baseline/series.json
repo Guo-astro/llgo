@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "series": [
+    {
+      "kind": "main",
+      "id": "main",
+      "label": "Main",
+      "path": "series/main/main/summary.json",
+      "configPath": "series/main/main/config.json",
+      "commitPath": "commits/304992d504a6420e2eac69d65f63f73f615e281b.json",
+      "sha": "304992d504a6420e2eac69d65f63f73f615e281b",
+      "sourceUrl": "https://github.com/Guo-astro/llgo/commit/304992d504a6420e2eac69d65f63f73f615e281b",
+      "updatedAt": "2026-10-12T07:31:43.887Z"
+    }
+  ]
+}
