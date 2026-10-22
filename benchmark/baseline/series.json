@@ -7,10 +7,10 @@
       "label": "Main",
       "path": "series/main/main/summary.json",
       "configPath": "series/main/main/config.json",
-      "commitPath": "commits/c171abfa130108bc6451e01fcf15a8a3474eb0a7.json",
-      "sha": "c171abfa130108bc6451e01fcf15a8a3474eb0a7",
-      "sourceUrl": "https://github.com/Guo-astro/llgo/commit/c171abfa130108bc6451e01fcf15a8a3474eb0a7",
-      "updatedAt": "2026-10-21T08:36:55.335Z"
+      "commitPath": "commits/0578518757341c5663e764c189a5f9b1e99a254d.json",
+      "sha": "0578518757341c5663e764c189a5f9b1e99a254d",
+      "sourceUrl": "https://github.com/Guo-astro/llgo/commit/0578518757341c5663e764c189a5f9b1e99a254d",
+      "updatedAt": "2026-10-22T11:29:45.073Z"
     }
   ]
 }
